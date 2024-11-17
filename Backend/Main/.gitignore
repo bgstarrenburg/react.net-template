@@ -1,0 +1,11 @@
+# Build files
+bin
+obj
+wwwroot/js/main.js
+
+# Environment settings
+appsettings*.json
+appsettings.Example.json
+
+# Extensions data
+.fake
